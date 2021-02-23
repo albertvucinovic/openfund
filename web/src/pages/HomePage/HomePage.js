@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <GlobalLayout>
       <RoundCell />
-      <PageHeading className="mt-8 mb-5">Projekti</PageHeading>
+      <PageHeading className="mt-8 mb-5">Projekti:</PageHeading>
       <ProjectsCell />
     </GlobalLayout>
   )
